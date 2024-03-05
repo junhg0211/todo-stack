@@ -1,5 +1,6 @@
 {
   "name": "todo-stack",
+  "homepage": "https://junhg0211.github.io/todo-stack",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
