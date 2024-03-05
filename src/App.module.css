@@ -1,0 +1,18 @@
+.main-container {
+  max-width: 540px;
+  margin: auto;
+}
+
+.prompt-input {
+  width: calc(100% - 2rem);
+  border: 1px solid #a0a0a0;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.button {
+  width: 100%;
+  display: block;
+  padding: 0.5rem;
+  margin-top: 1rem;
+}
